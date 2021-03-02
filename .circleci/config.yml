@@ -11,3 +11,4 @@ jobs:
       - run: echo "hello world" #  run the `echo` command
       - run: hostname
       - run: cat /etc/redhat-release
+      - run: echo "hello again"
